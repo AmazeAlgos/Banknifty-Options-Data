@@ -37,5 +37,18 @@
         "order_placed": "True",
         "order_closed": "True",
         "order_status": "Failed"
+    },
+    {
+        "": "4",
+        "Strike": "44600CE",
+        "SL": "12.0",
+        "Above": "99.0",
+        "LTP": "12.05",
+        "TGT1": "13.0",
+        "PNL": "0.0",
+        "Status": "Wait",
+        "order_placed": "False",
+        "order_closed": "False",
+        "order_status": ""
     }
 ]
