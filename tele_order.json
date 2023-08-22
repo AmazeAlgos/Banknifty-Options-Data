@@ -1,14 +1,1 @@
-{[
-        {
-            "Strike": "44100PE",
-            "SL": 175.0,
-            "Above": 190.0,
-            "LTP": 176.0,
-            "TGT1": 225.0,
-            "PNL": 0.0,
-            "Status": "Wait",
-            "order_placed": false,
-            "order_closed": false
-        }
-    ]
-}
+"{}"
