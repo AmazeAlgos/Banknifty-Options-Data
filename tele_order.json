@@ -1,46 +1,4 @@
-{
-    "schema": {
-        "fields": [
-            {
-                "name": "Strike",
-                "type": "string"
-            },
-            {
-                "name": "SL",
-                "type": "number"
-            },
-            {
-                "name": "Above",
-                "type": "number"
-            },
-            {
-                "name": "LTP",
-                "type": "number"
-            },
-            {
-                "name": "TGT1",
-                "type": "number"
-            },
-            {
-                "name": "PNL",
-                "type": "number"
-            },
-            {
-                "name": "Status",
-                "type": "string"
-            },
-            {
-                "name": "order_placed",
-                "type": "string"
-            },
-            {
-                "name": "order_closed",
-                "type": "string"
-            }
-        ],
-        "pandas_version": "1.4.0"
-    },
-    "data": [
+{[
         {
             "Strike": "44100PE",
             "SL": 175.0,
