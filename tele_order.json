@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "": "1",
+        "Strike": "44600CE",
+        "SL": "12.0",
+        "Above": "13.0",
+        "LTP": "12.05",
+        "TGT1": "14.0",
+        "PNL": "0.0",
+        "Status": "Wait",
+        "order_placed": "False",
+        "order_closed": "False"
+    }
+]
