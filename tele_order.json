@@ -1,1 +1,7 @@
-{"schema": {"fields": [], "pandas_version": "1.4.0"}, "data": []}
+{
+    "schema": {
+        "fields": [],
+        "pandas_version": "1.4.0"
+    },
+    "data": []
+}
