@@ -6,13 +6,16 @@
     "LTP": "27.7",
     "TGT1": "27.0",
     "PNL": "0.0",
-    "Status": "Live",
+    "Status": "Closed(TGT)",
     "buy_order_placed": "True",
-    "buy_order_closed": "False",
+    "buy_order_closed": "True",
     "Loop Num": "1.0",
     "buy_order_id": "12230823438150",
     "buy_order_status": "TRADED",
     "buy_order_price": "23.6",
-    "quantity": "15.0"
+    "quantity": "15.0",
+    "sell_order_id": "12230823451150",
+    "sell_order_status": "TRADED",
+    "sell_order1_price": "0.0"
   }
 ]
