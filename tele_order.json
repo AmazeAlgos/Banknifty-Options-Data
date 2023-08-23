@@ -38,5 +38,25 @@
     "sell_order_status": "TRADED",
     "sell_order_price": "",
     "sell_order1_price": "17.1"
+  },
+  {
+    "Strike": "44500CE",
+    "SL": "30.0",
+    "Above": "32.0",
+    "LTP": "32.75",
+    "TGT1": "39.0",
+    "PNL": "0.0",
+    "Status": "Wait",
+    "buy_order_placed": "False",
+    "buy_order_closed": "True",
+    "Loop Num": "3.0",
+    "buy_order_id": "",
+    "buy_order_status": "Failed",
+    "buy_order_price": "",
+    "quantity": "",
+    "sell_order_id": "",
+    "sell_order_status": "",
+    "sell_order_price": "",
+    "sell_order1_price": ""
   }
 ]
