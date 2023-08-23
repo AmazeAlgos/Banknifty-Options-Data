@@ -3,12 +3,32 @@
     "Strike": "44600CE",
     "SL": "21.0",
     "Above": "23.0",
-    "LTP": "20.0",
+    "LTP": "20.45",
     "TGT1": "27.0",
     "PNL": "0.0",
     "Status": "Wait",
     "buy_order_placed": "False",
     "buy_order_closed": "False",
-    "Loop Num": "1.0"
+    "Loop Num": "1.0",
+    "buy_order_id": "",
+    "buy_order_status": "",
+    "buy_order_price": "",
+    "quantity": ""
+  },
+  {
+    "Strike": "44600CE",
+    "SL": "19.0",
+    "Above": "20.0",
+    "LTP": "20.0",
+    "TGT1": "27.0",
+    "PNL": "0.0",
+    "Status": "Live",
+    "buy_order_placed": "True",
+    "buy_order_closed": "False",
+    "Loop Num": "2.0",
+    "buy_order_id": "12230823308550",
+    "buy_order_status": "TRADED",
+    "buy_order_price": "17.1",
+    "quantity": "15.0"
   }
 ]
