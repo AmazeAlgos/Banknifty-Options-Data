@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "Strike": "8000CE",
+    "SL": "11.0",
+    "Above": "12.0",
+    "LTP": "12.0",
+    "TGT1": "15.0",
+    "PNL": "0.0",
+    "Status": "Order Fail",
+    "buy_order_placed": "False",
+    "buy_order_closed": "True",
+    "Loop": "1.0",
+    "buy_order_status": "Failure"
+  }
+]
