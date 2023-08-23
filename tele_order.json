@@ -1,18 +1,1 @@
-[
-  {
-    "Strike": "43900PE",
-    "SL": "18.0",
-    "Above": "20.0",
-    "LTP": "18.35",
-    "TGT1": "25.0",
-    "PNL": "0.0",
-    "Status": "Live",
-    "buy_order_placed": "True",
-    "buy_order_closed": "False",
-    "Loop Num": "1.0",
-    "buy_order_id": "12230823578750",
-    "buy_order_status": "TRADED",
-    "buy_order_price": "19.9",
-    "quantity": "15.0"
-  }
-]
+[]
