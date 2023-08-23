@@ -16,25 +16,27 @@
     "quantity": "15.0",
     "sell_order_id": "62230823212750",
     "sell_order_status": "TRADED",
-    "sell_order_price": "17.1"
+    "sell_order_price": "17.1",
+    "sell_order1_price": ""
   },
   {
     "Strike": "44500CE",
     "SL": "21.0",
     "Above": "23.0",
-    "LTP": "25.85",
+    "LTP": "29.15",
     "TGT1": "29.0",
-    "PNL": "8.75",
-    "Status": "Live",
+    "PNL": "12.05",
+    "Status": "Closed(TGT)",
     "buy_order_placed": "True",
-    "buy_order_closed": "False",
+    "buy_order_closed": "True",
     "Loop Num": "2.0",
     "buy_order_id": "62230823218850",
     "buy_order_status": "TRADED",
     "buy_order_price": "17.1",
     "quantity": "15.0",
-    "sell_order_id": "",
-    "sell_order_status": "",
-    "sell_order_price": ""
+    "sell_order_id": "52230823228750",
+    "sell_order_status": "TRADED",
+    "sell_order_price": "",
+    "sell_order1_price": "17.1"
   }
 ]
