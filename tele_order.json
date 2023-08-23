@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "Sym": "CR",
+    "Strike": "6600CE",
+    "SL": "188.0",
+    "Above": "190.0",
+    "LTP": "190.0",
+    "TGT1": "192.0",
+    "PNL": "0.0",
+    "Status": "Wait",
+    "buy_order_placed": "False",
+    "buy_order_closed": "False",
+    "Loop": "1.0"
+  },
+  {
+    "Sym": "CR",
+    "Strike": "6600PE",
+    "SL": "243.0",
+    "Above": "244.0",
+    "LTP": "244.0",
+    "TGT1": "245.0",
+    "PNL": "0.0",
+    "Status": "Wait",
+    "buy_order_placed": "False",
+    "buy_order_closed": "False",
+    "Loop": "2.0"
+  }
+]
