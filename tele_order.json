@@ -1,16 +1,1 @@
-[
-  {
-    "Strike": "19350CE",
-    "SL": "70.0",
-    "Above": "87.0",
-    "LTP": "89.4",
-    "TGT1": "96.0",
-    "PNL": "0.0",
-    "Status": "Wait",
-    "buy_order_placed": "False",
-    "buy_order_closed": "True",
-    "Loop Num": "1.0",
-    "buy_order_status": "Failed",
-    "buy_order_price": "0.0"
-  }
-]
+[]
