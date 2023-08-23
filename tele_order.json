@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "Sym": "CR",
+    "Strike": "6500PE",
+    "SL": "181.0",
+    "Above": "183.0",
+    "LTP": "185.2",
+    "TGT1": "185.0",
+    "PNL": "0.6",
+    "Status": "Paper (TGT)",
+    "buy_order_placed": "True",
+    "buy_order_closed": "True",
+    "Loop": "1.0",
+    "buy_order_id": "10000000.0",
+    "buy_order_status": "Paper Trade",
+    "buy_order_price": "184.6",
+    "quantity": "15.0",
+    "sell_order_id": "200000.0",
+    "sell_order_status": "Paper Trade",
+    "sell_order_price": "185.2"
+  }
+]
