@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "Strike": "8000CE",
+    "SL": "25.0",
+    "Above": "27.0",
+    "LTP": "27.0",
+    "TGT1": "35.0",
+    "PNL": "0.0",
+    "Status": "Wait",
+    "buy_order_placed": "False",
+    "buy_order_closed": "False",
+    "Loop": "1.0",
+    "buy_order_status": ""
+  },
+  {
+    "Strike": "8000CE",
+    "SL": "11.0",
+    "Above": "12.0",
+    "LTP": "12.0",
+    "TGT1": "15.0",
+    "PNL": "0.0",
+    "Status": "Order Fail",
+    "buy_order_placed": "False",
+    "buy_order_closed": "True",
+    "Loop": "2.0",
+    "buy_order_status": "Failure"
+  }
+]
