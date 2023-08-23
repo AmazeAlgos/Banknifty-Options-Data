@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "Strike": "44500CE",
+    "SL": "30.0",
+    "Above": "32.0",
+    "LTP": "33.3",
+    "TGT1": "42.0",
+    "PNL": "0.0",
+    "Status": "Reject",
+    "buy_order_placed": "False",
+    "buy_order_closed": "True",
+    "Loop Num": "1.0",
+    "buy_order_status": "REJECTED"
+  }
+]
