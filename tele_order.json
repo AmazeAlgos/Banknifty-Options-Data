@@ -21,10 +21,10 @@
     "LTP": "27.0",
     "TGT1": "35.0",
     "PNL": "0.0",
-    "Status": "Wait",
+    "Status": "Order Fail",
     "buy_order_placed": "False",
-    "buy_order_closed": "False",
+    "buy_order_closed": "True",
     "Loop": "2.0",
-    "buy_order_status": ""
+    "buy_order_status": "Failure"
   }
 ]
