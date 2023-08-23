@@ -37,5 +37,18 @@
     "buy_order_closed": "True",
     "Loop Num": "3.0",
     "buy_order_status": "Failure"
+  },
+  {
+    "Strike": "44800CE",
+    "SL": "22.0",
+    "Above": "24.0",
+    "LTP": "24.0",
+    "TGT1": "27.0",
+    "PNL": "0.0",
+    "Status": "Order Fail",
+    "buy_order_placed": "False",
+    "buy_order_closed": "True",
+    "Loop Num": "4.0",
+    "buy_order_status": "Failure"
   }
 ]
