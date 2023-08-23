@@ -11,5 +11,18 @@
     "buy_order_closed": "True",
     "Loop Num": "1.0",
     "buy_order_status": "Failure"
+  },
+  {
+    "Strike": "44000PE",
+    "SL": "30.0",
+    "Above": "31.0",
+    "LTP": "31.0",
+    "TGT1": "47.0",
+    "PNL": "0.0",
+    "Status": "Reject",
+    "buy_order_placed": "False",
+    "buy_order_closed": "True",
+    "Loop Num": "2.0",
+    "buy_order_status": "REJECTED"
   }
 ]
