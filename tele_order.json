@@ -14,23 +14,29 @@
     "buy_order_id": "",
     "buy_order_status": "",
     "buy_order_price": "",
-    "quantity": ""
+    "quantity": "",
+    "sell_order_id": "",
+    "sell_order_status": "",
+    "sell_order_price": ""
   },
   {
     "Sym": "CR",
     "Strike": "6600CE",
     "SL": "182.0",
     "Above": "183.0",
-    "LTP": "185.0",
+    "LTP": "185.5",
     "TGT1": "185.0",
-    "PNL": "0.1",
-    "Status": "Live",
+    "PNL": "0.5999999999999943",
+    "Status": "Paper Closed(SL)",
     "buy_order_placed": "True",
-    "buy_order_closed": "False",
+    "buy_order_closed": "True",
     "Loop": "2.0",
     "buy_order_id": "10000000.0",
     "buy_order_status": "Paper Trade",
     "buy_order_price": "184.9",
-    "quantity": "15.0"
+    "quantity": "15.0",
+    "sell_order_id": "200000.0",
+    "sell_order_status": "Paper Trade",
+    "sell_order_price": "185.5"
   }
 ]
