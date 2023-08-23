@@ -1,15 +1,1 @@
-[
-  {
-    "Strike": "44000PE",
-    "SL": "33.0",
-    "Above": "35.0",
-    "LTP": "35.0",
-    "TGT1": "47.0",
-    "PNL": "0.0",
-    "Status": "Order Fail",
-    "buy_order_placed": "False",
-    "buy_order_closed": "True",
-    "Loop Num": "1.0",
-    "buy_order_status": "Failure"
-  }
-]
+[]
