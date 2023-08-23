@@ -38,5 +38,25 @@
     "sell_order_id": "",
     "sell_order_status": "",
     "sell_order_price": ""
+  },
+  {
+    "Sym": "CR",
+    "Strike": "6500PE",
+    "SL": "182.0",
+    "Above": "187.0",
+    "LTP": "187.0",
+    "TGT1": "194.0",
+    "PNL": "0.0",
+    "Status": "Wait",
+    "buy_order_placed": "False",
+    "buy_order_closed": "False",
+    "Loop": "3.0",
+    "buy_order_id": "",
+    "buy_order_status": "",
+    "buy_order_price": "",
+    "quantity": "",
+    "sell_order_id": "",
+    "sell_order_status": "",
+    "sell_order_price": ""
   }
 ]
