@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "Sym": "CR",
+    "Strike": "6600CE",
+    "SL": "177.0",
+    "Above": "179.0",
+    "LTP": "180.4",
+    "TGT1": "181.0",
+    "PNL": "1.2",
+    "Status": "Live",
+    "buy_order_placed": "True",
+    "buy_order_closed": "False",
+    "Loop": "1.0",
+    "buy_order_id": "10000000.0",
+    "buy_order_status": "Paper Trade",
+    "buy_order_price": "179.2",
+    "quantity": "15.0"
+  },
+  {
+    "Sym": "CR",
+    "Strike": "6600PE",
+    "SL": "243.0",
+    "Above": "245.0",
+    "LTP": "245.6",
+    "TGT1": "247.0",
+    "PNL": "0.0",
+    "Status": "Live",
+    "buy_order_placed": "True",
+    "buy_order_closed": "False",
+    "Loop": "2.0",
+    "buy_order_id": "10000000.0",
+    "buy_order_status": "Paper Trade",
+    "buy_order_price": "245.6",
+    "quantity": "15.0"
+  }
+]
